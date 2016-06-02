@@ -1,0 +1,6 @@
+The code that i have written is in the scripts folder any other code in the project is there for aesthetic purposes/trying to figure stuff out and not to be taken into account there is a samll diagram of what the behaviours implemented are above , 
+
+I couldnt get a finite machine to work with parts of the code and wrote a small piece of code that demonstrate how a finite machine would work it is named FSM, 
+
+thanks for the classes enjoy the summer, 
+Anthony
